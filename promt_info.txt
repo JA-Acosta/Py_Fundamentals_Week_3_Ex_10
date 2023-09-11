@@ -1,0 +1,5 @@
+This is the twenty-second program derived from 100 program prompts suggested by ChatGPT for a 4 week python course.
+
+Prompt(s) Used:
+54. Create a new CSV file.
+55. Implement a program that copies the contents from one csv file to another.
